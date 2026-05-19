@@ -1,0 +1,8 @@
+__pycache__
+
+# tex utils
+tex/*
+!tex
+!*.tex
+*.aux
+*.log
